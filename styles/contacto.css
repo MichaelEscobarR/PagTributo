@@ -1,0 +1,9 @@
+nav{
+    background: aquamarine;
+}
+
+.form{
+    display: block;
+    position: absolute;
+    margin-top: 80px;
+}
